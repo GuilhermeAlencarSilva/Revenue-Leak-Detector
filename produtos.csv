@@ -1,0 +1,241 @@
+id_produto,nome_produto,categoria,subcategoria,preco_unitario,custo_unitario,data_lancamento
+1,Notebook Gamer omnis,Notebooks,Notebook Gamer,1318.94,1115.64,2025-07-05
+2,Notebook Gamer fuga,Notebooks,Notebook Gamer,937.9,842.62,2023-09-20
+3,Notebook Gamer ratione,Notebooks,Notebook Gamer,1110.72,738.35,2024-10-22
+4,Notebook Gamer doloremque,Notebooks,Notebook Gamer,1274.57,923.32,2025-11-13
+5,Notebook Gamer aut,Notebooks,Notebook Gamer,83.14,57.9,2024-09-02
+6,Notebook Gamer sed,Notebooks,Notebook Gamer,1152.42,1023.42,2024-09-17
+7,Notebook Gamer sapiente,Notebooks,Notebook Gamer,435.92,293.79,2025-11-06
+8,Notebook Gamer aspernatur,Notebooks,Notebook Gamer,858.52,724.16,2024-01-09
+9,Notebook Gamer quidem,Notebooks,Notebook Gamer,1127.39,865.82,2024-10-10
+10,Notebook Gamer voluptatum,Notebooks,Notebook Gamer,958.14,644.48,2023-07-29
+11,Notebook Gamer neque,Notebooks,Notebook Gamer,665.88,450.54,2024-05-01
+12,Notebook Gamer nam,Notebooks,Notebook Gamer,1330.09,842.97,2025-12-24
+13,Notebook Gamer quo,Notebooks,Notebook Gamer,1029.22,697.9,2025-06-10
+14,Notebook Gamer magnam,Notebooks,Notebook Gamer,729.1,502.95,2023-03-28
+15,Notebook Gamer reprehenderit,Notebooks,Notebook Gamer,505.17,342.57,2025-06-05
+16,Notebook Ultrafino est,Notebooks,Notebook Ultrafino,1136.61,806.67,2024-11-27
+17,Notebook Ultrafino voluptate,Notebooks,Notebook Ultrafino,1097.74,808.84,2026-02-04
+18,Notebook Ultrafino fugiat,Notebooks,Notebook Ultrafino,834.45,636.68,2024-10-08
+19,Notebook Ultrafino optio,Notebooks,Notebook Ultrafino,1464.5,1039.97,2026-01-24
+20,Notebook Ultrafino nam,Notebooks,Notebook Ultrafino,335.3,292.89,2025-07-28
+21,Notebook Ultrafino quaerat,Notebooks,Notebook Ultrafino,287.01,244.06,2024-08-07
+22,Notebook Ultrafino ex,Notebooks,Notebook Ultrafino,250.82,200.06,2024-10-16
+23,Notebook Ultrafino corporis,Notebooks,Notebook Ultrafino,251.29,220.37,2026-03-12
+24,Notebook Ultrafino praesentium,Notebooks,Notebook Ultrafino,860.56,601.35,2026-01-04
+25,Notebook Ultrafino repellendus,Notebooks,Notebook Ultrafino,236.27,168.08,2024-10-20
+26,Notebook Ultrafino fugiat,Notebooks,Notebook Ultrafino,1066.38,762.98,2024-05-02
+27,Notebook Ultrafino ratione,Notebooks,Notebook Ultrafino,391.76,302.92,2024-06-08
+28,Notebook Ultrafino nam,Notebooks,Notebook Ultrafino,644.2,418.56,2024-12-01
+29,Notebook Ultrafino nemo,Notebooks,Notebook Ultrafino,256.36,208.23,2025-03-27
+30,Notebook Ultrafino totam,Notebooks,Notebook Ultrafino,1462.77,979.95,2024-12-29
+31,Monitor 24 sapiente,Monitores,Monitor 24,1166.53,730.58,2023-05-25
+32,Monitor 24 rem,Monitores,Monitor 24,590.92,444.37,2023-06-13
+33,Monitor 24 harum,Monitores,Monitor 24,425.06,322.57,2025-10-15
+34,Monitor 24 doloremque,Monitores,Monitor 24,1327.44,1172.57,2024-07-01
+35,Monitor 24 veritatis,Monitores,Monitor 24,177.82,121.19,2025-12-31
+36,Monitor 24 veniam,Monitores,Monitor 24,1469.33,1000.8,2024-09-24
+37,Monitor 24 corporis,Monitores,Monitor 24,1048.28,708.68,2024-10-03
+38,Monitor 24 atque,Monitores,Monitor 24,553.86,364.1,2024-06-06
+39,Monitor 24 ducimus,Monitores,Monitor 24,1288.76,1114.51,2024-08-31
+40,Monitor 24 cum,Monitores,Monitor 24,466.46,395.13,2024-09-24
+41,Monitor 24 magnam,Monitores,Monitor 24,556.62,350.5,2025-05-07
+42,Monitor 24 et,Monitores,Monitor 24,1144.37,891.39,2024-08-20
+43,Monitor 24 ipsa,Monitores,Monitor 24,433.34,292.9,2023-05-11
+44,Monitor 24 animi,Monitores,Monitor 24,1464.17,1257.35,2024-10-30
+45,Monitor 24 nisi,Monitores,Monitor 24,1220.4,779.11,2024-02-21
+46,Monitor 27 voluptas,Monitores,Monitor 27,1140.13,757.46,2025-03-24
+47,Monitor 27 corrupti,Monitores,Monitor 27,1466.76,902.98,2025-01-09
+48,Monitor 27 dignissimos,Monitores,Monitor 27,547.64,399.01,2026-03-04
+49,Monitor 27 culpa,Monitores,Monitor 27,1241.58,1030.34,2023-05-10
+50,Monitor 27 fugit,Monitores,Monitor 27,581.24,447.36,2026-01-26
+51,Monitor 27 laborum,Monitores,Monitor 27,1258.32,761.87,2025-01-02
+52,Monitor 27 quo,Monitores,Monitor 27,1209.2,1069.02,2025-09-14
+53,Monitor 27 repellat,Monitores,Monitor 27,77.13,47.34,2024-01-07
+54,Monitor 27 quae,Monitores,Monitor 27,536.44,335.99,2023-12-16
+55,Monitor 27 deleniti,Monitores,Monitor 27,734.54,601.3,2025-04-07
+56,Monitor 27 officia,Monitores,Monitor 27,863.34,568.88,2024-02-15
+57,Monitor 27 nesciunt,Monitores,Monitor 27,992.57,799.47,2025-05-02
+58,Monitor 27 maiores,Monitores,Monitor 27,1400.7,902.1,2025-04-08
+59,Monitor 27 saepe,Monitores,Monitor 27,1047.73,915.12,2024-01-12
+60,Monitor 27 esse,Monitores,Monitor 27,767.3,543.66,2023-06-02
+61,Teclado Mecânico aperiam,Teclados,Teclado Mecânico,281.0,241.67,2024-01-14
+62,Teclado Mecânico laudantium,Teclados,Teclado Mecânico,609.54,534.85,2023-06-02
+63,Teclado Mecânico beatae,Teclados,Teclado Mecânico,1276.2,909.92,2023-03-30
+64,Teclado Mecânico animi,Teclados,Teclado Mecânico,873.65,531.31,2023-03-29
+65,Teclado Mecânico dolores,Teclados,Teclado Mecânico,416.94,339.0,2025-05-05
+66,Teclado Mecânico recusandae,Teclados,Teclado Mecânico,1026.53,724.74,2024-12-17
+67,Teclado Mecânico doloribus,Teclados,Teclado Mecânico,1218.65,817.41,2025-06-17
+68,Teclado Mecânico blanditiis,Teclados,Teclado Mecânico,708.07,525.22,2024-12-24
+69,Teclado Mecânico autem,Teclados,Teclado Mecânico,531.0,470.68,2023-06-19
+70,Teclado Mecânico alias,Teclados,Teclado Mecânico,1054.13,802.99,2023-12-18
+71,Teclado Mecânico perspiciatis,Teclados,Teclado Mecânico,780.46,505.57,2026-02-09
+72,Teclado Mecânico suscipit,Teclados,Teclado Mecânico,577.11,462.75,2023-12-31
+73,Teclado Mecânico maxime,Teclados,Teclado Mecânico,1389.12,1173.72,2026-03-06
+74,Teclado Mecânico consequatur,Teclados,Teclado Mecânico,471.57,344.34,2024-08-11
+75,Teclado Mecânico laborum,Teclados,Teclado Mecânico,151.89,95.79,2024-10-26
+76,Teclado Wireless delectus,Teclados,Teclado Wireless,721.24,547.47,2025-02-07
+77,Teclado Wireless dolore,Teclados,Teclado Wireless,418.12,331.5,2025-01-19
+78,Teclado Wireless distinctio,Teclados,Teclado Wireless,1063.97,733.86,2024-05-04
+79,Teclado Wireless sed,Teclados,Teclado Wireless,1144.88,757.55,2023-07-18
+80,Teclado Wireless officiis,Teclados,Teclado Wireless,830.05,698.31,2023-07-07
+81,Teclado Wireless earum,Teclados,Teclado Wireless,819.4,714.84,2025-09-01
+82,Teclado Wireless quis,Teclados,Teclado Wireless,116.0,90.07,2025-08-08
+83,Teclado Wireless officia,Teclados,Teclado Wireless,855.78,683.0,2025-06-20
+84,Teclado Wireless vitae,Teclados,Teclado Wireless,1255.11,1026.37,2025-10-13
+85,Teclado Wireless minus,Teclados,Teclado Wireless,1191.72,818.29,2024-12-13
+86,Teclado Wireless dolores,Teclados,Teclado Wireless,599.62,472.52,2025-07-28
+87,Teclado Wireless nesciunt,Teclados,Teclado Wireless,843.59,749.39,2025-07-22
+88,Teclado Wireless dolores,Teclados,Teclado Wireless,304.65,214.89,2026-01-23
+89,Teclado Wireless animi,Teclados,Teclado Wireless,871.95,750.22,2026-01-11
+90,Teclado Wireless ad,Teclados,Teclado Wireless,1396.14,978.43,2024-11-26
+91,Headset Gamer tempore,Headsets,Headset Gamer,128.65,93.46,2023-04-14
+92,Headset Gamer at,Headsets,Headset Gamer,609.69,546.25,2024-08-22
+93,Headset Gamer voluptatibus,Headsets,Headset Gamer,663.66,459.06,2025-08-18
+94,Headset Gamer iste,Headsets,Headset Gamer,567.1,407.79,2024-05-01
+95,Headset Gamer aspernatur,Headsets,Headset Gamer,1237.66,772.68,2025-01-29
+96,Headset Gamer doloremque,Headsets,Headset Gamer,495.27,440.73,2025-06-10
+97,Headset Gamer officiis,Headsets,Headset Gamer,255.06,209.86,2024-12-11
+98,Headset Gamer voluptates,Headsets,Headset Gamer,553.9,429.01,2025-03-04
+99,Headset Gamer eum,Headsets,Headset Gamer,176.34,122.01,2026-02-18
+100,Headset Gamer facere,Headsets,Headset Gamer,766.27,513.03,2024-08-07
+101,Headset Gamer aspernatur,Headsets,Headset Gamer,826.55,550.42,2023-08-09
+102,Headset Gamer harum,Headsets,Headset Gamer,985.65,858.8,2023-09-24
+103,Headset Gamer earum,Headsets,Headset Gamer,155.67,103.52,2025-03-01
+104,Headset Gamer modi,Headsets,Headset Gamer,1271.3,1003.65,2025-09-13
+105,Headset Gamer expedita,Headsets,Headset Gamer,145.7,108.68,2026-01-30
+106,Headset Office iusto,Headsets,Headset Office,338.35,223.22,2024-08-05
+107,Headset Office velit,Headsets,Headset Office,1412.75,1170.41,2025-10-23
+108,Headset Office corporis,Headsets,Headset Office,1053.46,707.59,2024-12-01
+109,Headset Office quod,Headsets,Headset Office,204.3,175.96,2025-04-16
+110,Headset Office aliquam,Headsets,Headset Office,38.64,27.68,2024-03-04
+111,Headset Office ab,Headsets,Headset Office,438.09,337.82,2023-12-01
+112,Headset Office molestias,Headsets,Headset Office,398.25,276.13,2024-08-13
+113,Headset Office cupiditate,Headsets,Headset Office,1279.56,999.28,2024-11-04
+114,Headset Office possimus,Headsets,Headset Office,244.15,199.7,2026-01-17
+115,Headset Office officiis,Headsets,Headset Office,334.97,244.49,2026-01-25
+116,Headset Office assumenda,Headsets,Headset Office,980.51,668.3,2024-02-24
+117,Headset Office modi,Headsets,Headset Office,594.64,487.75,2026-02-03
+118,Headset Office corrupti,Headsets,Headset Office,1408.73,1068.91,2023-12-27
+119,Headset Office neque,Headsets,Headset Office,44.66,31.33,2025-09-16
+120,Headset Office perferendis,Headsets,Headset Office,615.99,432.27,2024-04-07
+121,Webcam HD minima,Webcams,Webcam HD,671.32,530.2,2025-10-06
+122,Webcam HD nam,Webcams,Webcam HD,208.06,141.85,2024-12-05
+123,Webcam HD at,Webcams,Webcam HD,776.24,539.23,2024-04-26
+124,Webcam HD eaque,Webcams,Webcam HD,1486.9,1084.59,2023-12-01
+125,Webcam HD deleniti,Webcams,Webcam HD,1308.6,1137.12,2024-12-25
+126,Webcam HD expedita,Webcams,Webcam HD,1258.93,773.07,2025-09-28
+127,Webcam HD asperiores,Webcams,Webcam HD,1423.19,908.88,2024-09-05
+128,Webcam HD natus,Webcams,Webcam HD,80.57,58.36,2025-08-01
+129,Webcam HD ex,Webcams,Webcam HD,316.11,207.14,2025-10-14
+130,Webcam HD eveniet,Webcams,Webcam HD,453.09,305.62,2026-02-02
+131,Webcam HD odio,Webcams,Webcam HD,1036.65,680.08,2026-02-27
+132,Webcam HD totam,Webcams,Webcam HD,828.38,742.17,2023-08-18
+133,Webcam HD quod,Webcams,Webcam HD,665.6,527.53,2023-12-05
+134,Webcam HD perferendis,Webcams,Webcam HD,1454.98,933.06,2024-03-13
+135,Webcam HD culpa,Webcams,Webcam HD,645.35,551.81,2024-06-24
+136,Webcam 4K porro,Webcams,Webcam 4K,1400.49,1092.9,2025-02-27
+137,Webcam 4K ex,Webcams,Webcam 4K,240.83,209.63,2024-04-13
+138,Webcam 4K veniam,Webcams,Webcam 4K,286.44,202.18,2025-05-22
+139,Webcam 4K consectetur,Webcams,Webcam 4K,582.0,427.29,2024-08-26
+140,Webcam 4K in,Webcams,Webcam 4K,1191.54,1001.66,2025-11-27
+141,Webcam 4K ab,Webcams,Webcam 4K,1087.89,659.96,2024-08-01
+142,Webcam 4K vero,Webcams,Webcam 4K,860.32,709.12,2025-10-18
+143,Webcam 4K sint,Webcams,Webcam 4K,683.6,603.95,2024-06-01
+144,Webcam 4K voluptate,Webcams,Webcam 4K,1241.0,982.19,2024-06-18
+145,Webcam 4K reiciendis,Webcams,Webcam 4K,121.77,96.89,2023-04-27
+146,Webcam 4K saepe,Webcams,Webcam 4K,1370.02,977.97,2023-09-15
+147,Webcam 4K iure,Webcams,Webcam 4K,1262.05,875.8,2025-01-19
+148,Webcam 4K deserunt,Webcams,Webcam 4K,868.05,689.69,2025-09-09
+149,Webcam 4K mollitia,Webcams,Webcam 4K,1026.65,887.81,2025-04-20
+150,Webcam 4K fugit,Webcams,Webcam 4K,374.89,254.45,2023-04-08
+151,Dock USB-C consequatur,Dock Stations,Dock USB-C,1064.94,695.57,2024-06-24
+152,Dock USB-C corporis,Dock Stations,Dock USB-C,712.48,431.77,2025-06-01
+153,Dock USB-C maiores,Dock Stations,Dock USB-C,237.24,190.66,2023-07-01
+154,Dock USB-C quod,Dock Stations,Dock USB-C,1128.77,716.31,2024-01-12
+155,Dock USB-C illum,Dock Stations,Dock USB-C,364.73,229.66,2025-11-11
+156,Dock USB-C harum,Dock Stations,Dock USB-C,667.12,425.51,2023-12-09
+157,Dock USB-C asperiores,Dock Stations,Dock USB-C,672.83,551.47,2024-07-09
+158,Dock USB-C accusantium,Dock Stations,Dock USB-C,1034.58,707.8,2024-11-26
+159,Dock USB-C numquam,Dock Stations,Dock USB-C,1020.43,896.26,2024-04-12
+160,Dock USB-C cupiditate,Dock Stations,Dock USB-C,540.86,377.92,2024-11-01
+161,Dock USB-C ipsa,Dock Stations,Dock USB-C,870.01,586.09,2024-11-19
+162,Dock USB-C ex,Dock Stations,Dock USB-C,987.82,839.33,2025-12-20
+163,Dock USB-C optio,Dock Stations,Dock USB-C,705.2,566.88,2024-09-03
+164,Dock USB-C eum,Dock Stations,Dock USB-C,988.27,604.43,2024-02-23
+165,Dock USB-C occaecati,Dock Stations,Dock USB-C,299.62,260.09,2026-03-14
+166,Dock Thunderbolt mollitia,Dock Stations,Dock Thunderbolt,1410.17,1176.27,2023-08-10
+167,Dock Thunderbolt quibusdam,Dock Stations,Dock Thunderbolt,1384.23,957.68,2024-01-17
+168,Dock Thunderbolt quibusdam,Dock Stations,Dock Thunderbolt,394.14,281.92,2024-08-31
+169,Dock Thunderbolt nemo,Dock Stations,Dock Thunderbolt,111.35,93.87,2024-10-29
+170,Dock Thunderbolt iste,Dock Stations,Dock Thunderbolt,1476.74,1251.11,2023-09-09
+171,Dock Thunderbolt ratione,Dock Stations,Dock Thunderbolt,845.81,582.41,2024-08-15
+172,Dock Thunderbolt veniam,Dock Stations,Dock Thunderbolt,320.62,227.39,2023-12-07
+173,Dock Thunderbolt neque,Dock Stations,Dock Thunderbolt,1010.45,741.79,2024-09-16
+174,Dock Thunderbolt perspiciatis,Dock Stations,Dock Thunderbolt,1403.07,1201.4,2025-11-16
+175,Dock Thunderbolt adipisci,Dock Stations,Dock Thunderbolt,180.53,115.44,2023-06-02
+176,Dock Thunderbolt animi,Dock Stations,Dock Thunderbolt,1024.07,685.34,2024-02-25
+177,Dock Thunderbolt tempora,Dock Stations,Dock Thunderbolt,1192.81,927.3,2026-01-24
+178,Dock Thunderbolt minima,Dock Stations,Dock Thunderbolt,367.85,273.54,2025-08-18
+179,Dock Thunderbolt cumque,Dock Stations,Dock Thunderbolt,626.93,540.38,2025-11-11
+180,Dock Thunderbolt voluptatibus,Dock Stations,Dock Thunderbolt,77.28,67.14,2024-09-16
+181,Mouse eligendi,Acessórios,Mouse,988.56,811.87,2025-02-25
+182,Mouse unde,Acessórios,Mouse,33.83,26.68,2023-07-31
+183,Mouse cupiditate,Acessórios,Mouse,895.07,681.3,2025-07-13
+184,Mouse officia,Acessórios,Mouse,1185.22,908.78,2024-04-10
+185,Mouse eum,Acessórios,Mouse,1289.93,863.98,2023-07-23
+186,Mouse necessitatibus,Acessórios,Mouse,1214.79,794.23,2025-05-19
+187,Mouse minima,Acessórios,Mouse,1225.28,1080.87,2024-03-23
+188,Mouse consequuntur,Acessórios,Mouse,523.47,397.3,2025-03-17
+189,Mouse laudantium,Acessórios,Mouse,997.74,622.43,2024-09-29
+190,Mouse vel,Acessórios,Mouse,756.3,535.59,2024-06-14
+191,Mouse voluptate,Acessórios,Mouse,1312.51,1132.7,2024-08-08
+192,Mouse id,Acessórios,Mouse,1060.15,844.64,2024-02-23
+193,Mouse a,Acessórios,Mouse,1108.52,786.82,2025-04-30
+194,Mouse eum,Acessórios,Mouse,624.64,478.55,2024-12-31
+195,Mouse adipisci,Acessórios,Mouse,1408.9,1151.35,2024-06-04
+196,Mousepad impedit,Acessórios,Mousepad,839.95,698.11,2025-08-19
+197,Mousepad corrupti,Acessórios,Mousepad,575.21,471.18,2025-01-11
+198,Mousepad ducimus,Acessórios,Mousepad,633.69,433.38,2023-11-16
+199,Mousepad adipisci,Acessórios,Mousepad,926.29,746.65,2024-09-10
+200,Mousepad architecto,Acessórios,Mousepad,705.16,542.73,2023-12-17
+201,Mousepad exercitationem,Acessórios,Mousepad,1050.28,872.06,2025-01-16
+202,Mousepad non,Acessórios,Mousepad,1346.49,951.11,2024-06-03
+203,Mousepad illum,Acessórios,Mousepad,1428.67,1130.34,2023-12-22
+204,Mousepad quo,Acessórios,Mousepad,1187.92,962.13,2025-06-05
+205,Mousepad praesentium,Acessórios,Mousepad,332.19,206.43,2026-01-04
+206,Mousepad accusamus,Acessórios,Mousepad,1097.64,826.87,2023-09-02
+207,Mousepad blanditiis,Acessórios,Mousepad,1062.25,789.31,2025-05-12
+208,Mousepad quia,Acessórios,Mousepad,488.98,335.2,2025-04-01
+209,Mousepad illum,Acessórios,Mousepad,1103.88,753.99,2025-04-01
+210,Mousepad sint,Acessórios,Mousepad,1080.58,772.81,2024-07-28
+211,Cabo HDMI accusamus,Cabos,Cabo HDMI,1163.22,747.77,2023-05-31
+212,Cabo HDMI doloremque,Cabos,Cabo HDMI,331.32,266.97,2025-09-04
+213,Cabo HDMI sed,Cabos,Cabo HDMI,853.54,564.33,2025-08-10
+214,Cabo HDMI qui,Cabos,Cabo HDMI,1357.16,926.64,2025-10-06
+215,Cabo HDMI eos,Cabos,Cabo HDMI,648.97,428.77,2026-03-09
+216,Cabo HDMI illo,Cabos,Cabo HDMI,600.4,448.8,2025-10-20
+217,Cabo HDMI magnam,Cabos,Cabo HDMI,464.01,385.47,2025-04-03
+218,Cabo HDMI minus,Cabos,Cabo HDMI,609.08,498.75,2025-11-03
+219,Cabo HDMI minima,Cabos,Cabo HDMI,334.4,238.46,2024-04-17
+220,Cabo HDMI rem,Cabos,Cabo HDMI,41.85,34.63,2023-04-07
+221,Cabo HDMI consectetur,Cabos,Cabo HDMI,950.05,803.12,2025-09-04
+222,Cabo HDMI enim,Cabos,Cabo HDMI,699.75,587.73,2026-02-12
+223,Cabo HDMI maxime,Cabos,Cabo HDMI,981.95,590.23,2026-01-04
+224,Cabo HDMI voluptatem,Cabos,Cabo HDMI,402.93,301.46,2025-12-18
+225,Cabo HDMI ad,Cabos,Cabo HDMI,939.47,582.17,2026-03-05
+226,Cabo USB-C vel,Cabos,Cabo USB-C,1066.47,813.78,2024-01-12
+227,Cabo USB-C placeat,Cabos,Cabo USB-C,802.9,552.08,2025-11-05
+228,Cabo USB-C sequi,Cabos,Cabo USB-C,904.39,550.09,2023-08-28
+229,Cabo USB-C nobis,Cabos,Cabo USB-C,125.11,102.61,2023-12-06
+230,Cabo USB-C quod,Cabos,Cabo USB-C,503.18,354.28,2024-08-01
+231,Cabo USB-C minima,Cabos,Cabo USB-C,336.33,246.76,2024-11-20
+232,Cabo USB-C veniam,Cabos,Cabo USB-C,106.43,73.45,2025-07-03
+233,Cabo USB-C accusamus,Cabos,Cabo USB-C,804.87,595.36,2025-03-25
+234,Cabo USB-C porro,Cabos,Cabo USB-C,1499.51,1074.6,2024-03-14
+235,Cabo USB-C blanditiis,Cabos,Cabo USB-C,598.89,449.81,2023-10-08
+236,Cabo USB-C mollitia,Cabos,Cabo USB-C,309.75,267.28,2024-03-31
+237,Cabo USB-C quae,Cabos,Cabo USB-C,871.23,572.95,2025-04-12
+238,Cabo USB-C debitis,Cabos,Cabo USB-C,1196.36,730.14,2023-03-23
+239,Cabo USB-C reprehenderit,Cabos,Cabo USB-C,1474.37,1267.29,2025-01-02
+240,Cabo USB-C incidunt,Cabos,Cabo USB-C,882.07,558.69,2025-11-03
